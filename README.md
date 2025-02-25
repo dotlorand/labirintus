@@ -2,6 +2,10 @@
 
 Használat:
 
-`pip install -r requirements.txt`
+```bash
+git clone https://github.com/dotlorand/labirintus.git
 
-`python main.py`
+pip install -r requirements.txt
+
+python app/main.py
+```
