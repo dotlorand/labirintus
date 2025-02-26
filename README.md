@@ -1,9 +1,9 @@
-# labirintus
+# Study Dashboard
 
 Használat:
 
 ```bash
-git clone https://github.com/dotlorand/labirintus.git
+git clone https://github.com/dotlorand/study-dashboard.git
 
 pip install -r requirements.txt
 
